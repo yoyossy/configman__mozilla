@@ -1,4 +1,4 @@
-# http://travis-ci.org/#!/mozilla/configman
+# http://travis-ci.org/#!/mozilla/configmann
 language: python
 
 python:
